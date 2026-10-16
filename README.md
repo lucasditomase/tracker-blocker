@@ -1,11 +1,7 @@
 # Tracker Blocker
 
-## Privacy Policy
+## [Privacy Policy](privacy-policy.md)
 
-- This app does not collect user data.
+## [Terms of Service](terms-of-service.md)
 
-## Terms of Service
-
-- This app is the sole property of its developer.
-
-### [Customer Support](mailto:rescates.jarrazo-7u@icloud.com?subject=Tracker%20Blocker)
+## [Customer Support](support.md)
